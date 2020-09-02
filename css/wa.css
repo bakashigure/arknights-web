@@ -1,0 +1,38 @@
+/* 
+SourceHanSansSC-Regular
+*/
+body
+{ 
+    background-image: url('../pic/bg.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.header
+{
+    margin-bottom:0;
+    background-color:#ebebeb;
+}
+
+.menu
+{
+    background-color: rgba(250, 235, 215, 0.26);
+    width:100px;
+    float:left;
+    height:500px;
+}
+.div1
+{
+    position: absolute;
+    top:35%;
+    left:50%;
+}
+
+
+p1
+{
+    font-family:'Consolas',黑体;
+    color:rgb(107, 224, 245);
+    font-size: 40px;
+}
